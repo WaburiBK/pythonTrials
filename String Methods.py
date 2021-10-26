@@ -3,7 +3,7 @@ location = "Nyeri"
 
 print ("My girlfriend {} lives and works in {}".format(name, location))
 
-statement = "Today was a brilliant day with Job. We managed to finish all the deliveries and make some extra money along the way"
+statement = "Today was a brilliant day. We managed to finish all the work and enjoy a few drinks"
 
 word_count = len(statement)
 first_idx = statement.index("the")
